@@ -5,4 +5,4 @@ In this repository you'll find the source code for all the mods released by Conv
 - Hogwarts Legacy
 
 ## Need Support or Have Questions?
-If you encounter any issues or have questions, feel free to reach out to us at support@convai.com or join the community on Discord Our team is dedicated to providing you with the support you need to make the most out of Convai.
+If you encounter any issues or have questions, feel free to reach out to us at support@convai.com or join the community on [Discord](https://discord.gg/UVvBgV3xQ5) Our team is dedicated to providing you with the support you need to make the most out of Convai.
