@@ -1,0 +1,3 @@
+can input text from game itself, no dos/console window will open for either kepboard/microphone
+no more freezing
+got rid of master.exe, now only main.exe exists
